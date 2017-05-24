@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Jordan D
 
-I like to:
+I like to: Make custom keycaps
 
-I'm learning:
+I'm learning: java and html/css/javascript
 
 ```
 
